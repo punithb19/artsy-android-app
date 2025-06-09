@@ -2,6 +2,9 @@
 
 A modern Android app to search, view, and favorite artists using the Artsy API. Built with Jetpack Compose, Retrofit, and Coil.
 
+## Demo Video
+https://drive.google.com/file/d/13hkMV1AIRIAhHBiKmF-vJ0JbZdZ7MJvL/view
+
 ## Features
 
 - User authentication (login/register/logout)
